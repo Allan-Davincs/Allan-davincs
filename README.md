@@ -33,7 +33,7 @@ We build systems.
 
 🌐 Portfolio:
 https://alan-enock.vercel.app/
-Curently studying Find more info on linked 
+Curently am studying Find more info on linked 
 
 
 🎯 MISSION PROTOCOL
