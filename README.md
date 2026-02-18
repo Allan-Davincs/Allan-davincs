@@ -1,16 +1,51 @@
-## Hi there 👋
+> Initializing Profile...
 
-<!--
-**Allan-Davincs/Allan-davincs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+███████╗██╗     ███████╗██╗  ██╗     █████╗ ██╗
+██╔════╝██║     ██╔════╝╚██╗██╔╝    ██╔══██╗██║
+█████╗  ██║     █████╗   ╚███╔╝     ███████║██║
+██╔══╝  ██║     ██╔══╝   ██╔██╗     ██╔══██║██║
+██║     ███████╗███████╗██╔╝ ██╗    ██║  ██║██║
+╚═╝     ╚══════╝╚══════╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝
 
-Here are some ideas to get you started:
+> System Status: ONLINE
+> Mode: BUILD • INNOVATE • DEPLOY
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ SYSTEM IDENTITY
+
+💻 Full-Stack Engineer
+🤖 AI Systems Builder
+🎨 UI Architect
+🌍 Building digital infrastructure for real-world impact
+
+🧠 CORE OPERATIONS
+✔ Designing modern interfaces
+✔ Engineering scalable backends
+✔ Connecting APIs & databases
+✔ Transforming manual systems → digital platforms
+✔ Integrating AI into practical solutions
+✔ Shipping production-ready applications
+
+
+We don’t just code.
+We build systems.
+
+
+
+🌐 Portfolio:
+https://alan-enock.vercel.app/
+Curently studying Find more info on linked 
+
+
+🎯 MISSION PROTOCOL
+[ ] Launch scalable SaaS platform
+[ ] Deep AI integrations
+[ ] Build tech brand across Africa
+[ ] Contribute to open-source systems
+
+📡 CONNECT
+> Awaiting collaboration request...
+> Status: OPEN
+
+
+⭐ Not just writing code.
+⚡ Engineering intelligent systems.
