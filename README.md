@@ -45,7 +45,3 @@ Curently am studying Find more info on linked
 📡 CONNECT
 > Awaiting collaboration request...
 > Status: OPEN
-
-
-⭐ Not just writing code.
-⚡ Engineering intelligent systems.
