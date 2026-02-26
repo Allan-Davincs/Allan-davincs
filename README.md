@@ -1,7 +1,3 @@
-> Initializing Profile...
-
-> System Status: ONLINE
-> Mode: BUILD • INNOVATE • DEPLOY
 
 ⚡ SYSTEM IDENTITY
 
