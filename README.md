@@ -1,6 +1,3 @@
-
-⚡ SYSTEM IDENTITY
-
 🧠 CORE OPERATIONS
 ✔ Designing modern interfaces
 ✔ Engineering scalable backends
