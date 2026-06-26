@@ -1,8 +1,51 @@
 # Alan G Enock
-**Computer Engineering** · Dar es Salaam Institute of Technology  
+
+**Software Engineer** · 2nd Year Computer Engineering, Dar es Salaam Institute of Technology (DIT)  
 Dar es Salaam, Tanzania · Open to remote opportunities
 
-I design and ship full-stack systems — from e-commerce and APIs to AI pipelines and infrastructure. I focus on production-ready software: clear architecture, reliable deployments, and solutions that work for real users.
+I design and ship full-stack systems — from e-commerce and APIs to AI pipelines and infrastructure. Production-ready software, clear architecture, reliable deployments.
+
+<p align="left">
+  <a href="https://alan-enock-v2.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/alan-enock-02016031a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:allandavinc89@gmail.com"><img src="https://img.shields.io/badge/Email-allandavinc89@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+---
+
+## Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/C/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C/C++"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white" alt="Heroku"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,go,ts,react,nextjs,nodejs,mongodb,postgres,docker,linux,git&theme=dark" alt="Tech stack icons"/>
+</p>
+
+---
+
+## GitHub
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Allan-Davincs&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allan-Davincs&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top languages"/>
+</p>
 
 ---
 
@@ -14,7 +57,7 @@ I design and ship full-stack systems — from e-commerce and APIs to AI pipeline
 - Payment flows, SMS/email notifications, and third-party integrations
 - Reverse proxies, load balancing, and system operations
 - RAG-based AI systems and document pipelines
-- CyberSecurity and Penetration testings WPT
+- Cybersecurity and web penetration testing (WPT)
 
 ---
 
@@ -25,24 +68,7 @@ I design and ship full-stack systems — from e-commerce and APIs to AI pipeline
 | **TypeScript / JavaScript** | Frontend and backend application logic |
 | **Go** | High-performance services, proxies, systems tooling |
 | **Python** | APIs, automation, AI/LLM workflows |
-| **C&C++** | OS, automation, Micro-Services |
-
-
----
-
-## Technologies I use regularly
-
-**Frontend & frameworks**  
-`Next.js` · `React` · `Tailwind CSS` · `Vite`
-
-**Backend & runtime**  
-`Node.js` · `FastAPI` · `REST APIs` · `WebSockets`
-
-**Data**  
-`MongoDB` · `PostgreSQL` · `PGVector`
-
-**Infrastructure & tools**  
-`Linux` · `Docker` · `Nginx` · `Git` · `Vercel` · `Heroku`
+| **C / C++** | Systems programming, microservices, low-level tooling |
 
 ---
 
@@ -61,13 +87,10 @@ I design and ship full-stack systems — from e-commerce and APIs to AI pipeline
 
 ## Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-alan--enock--v2-111111?style=flat-square&logo=vercel&logoColor=white)](https://alan-enock-v2.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alan_Enock-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-enock-02016031a)
-[![Email](https://img.shields.io/badge/Email-allandavinc89@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:allandavinc89@gmail.com)
-
-**Email:** allandavinc89@gmail.com  
-**Phone:** +255 759 637 644
+**Email:** [allandavinc89@gmail.com](mailto:allandavinc89@gmail.com)  
+**Phone:** +255 759 637 644  
+**GitHub:** [@Allan-Davincs](https://github.com/Allan-Davincs) · **LinkedIn:** [alan-enock](https://www.linkedin.com/in/alan-enock-02016031a)
 
 ---
 
-*Building systems that solve real problems. If you have a project or collaboration in mind — reach out.*
+*Building systems that solve real problems. Open to projects, internships, and collaboration.*
