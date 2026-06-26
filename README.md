@@ -6,6 +6,7 @@ Dar es Salaam, Tanzania · Open to remote opportunities
 I design and ship full-stack systems — from e-commerce and APIs to AI pipelines and infrastructure. Production-ready software, clear architecture, reliable deployments.
 
 <p align="left">
+  <a href="https://github.com/Allan-Davincs"><img src="https://img.shields.io/badge/GitHub-@Allan--Davincs-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://alan-enock-v2.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/alan-enock-02016031a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:allandavinc89@gmail.com"><img src="https://img.shields.io/badge/Email-allandavinc89@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -17,6 +18,8 @@ I design and ship full-stack systems — from e-commerce and APIs to AI pipeline
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -35,16 +38,39 @@ I design and ship full-stack systems — from e-commerce and APIs to AI pipeline
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,go,ts,react,nextjs,nodejs,mongodb,postgres,docker,linux,git&theme=dark" alt="Tech stack icons"/>
+  <img src="https://skillicons.dev/icons?i=python,java,spring,go,ts,react,nextjs,nodejs,mongodb,postgres,docker,linux,git&theme=dark" alt="Tech stack icons"/>
 </p>
 
 ---
 
-## GitHub
+## GitHub · [@Allan-Davincs](https://github.com/Allan-Davincs)
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Allan-Davincs&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allan-Davincs&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top languages"/>
+<p align="center">
+  <img
+    width="100%"
+    src="https://streak-stats.daily.dev?user=Allan-Davincs&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=C9D1D9"
+    alt="GitHub contribution streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    height="190"
+    src="https://github-readme-stats.vercel.app/api?username=Allan-Davincs&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=8&include_all_commits=true&rank_icon=percentile"
+    alt="GitHub stats for Allan-Davincs"
+  />
+  <img
+    height="190"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allan-Davincs&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=8&langs_count=6&hide=html,css,scss"
+    alt="Top languages for Allan-Davincs"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Allan-Davincs&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true"
+    alt="GitHub activity graph"
+  />
 </p>
 
 ---
@@ -52,7 +78,7 @@ I design and ship full-stack systems — from e-commerce and APIs to AI pipeline
 ## What I work on
 
 - Full-stack web applications (Next.js, Node.js, TypeScript)
-- Backend services and APIs in **Go** and **Python**
+- Backend services and APIs in **Java (Spring Boot)**, **Go**, and **Python**
 - Database design and integration (MongoDB, PostgreSQL)
 - Payment flows, SMS/email notifications, and third-party integrations
 - Reverse proxies, load balancing, and system operations
@@ -65,6 +91,7 @@ I design and ship full-stack systems — from e-commerce and APIs to AI pipeline
 
 | Language | Use |
 |----------|-----|
+| **Java** | Enterprise backends, REST APIs, Spring Boot microservices |
 | **TypeScript / JavaScript** | Frontend and backend application logic |
 | **Go** | High-performance services, proxies, systems tooling |
 | **Python** | APIs, automation, AI/LLM workflows |
@@ -77,9 +104,10 @@ I design and ship full-stack systems — from e-commerce and APIs to AI pipeline
 | Project | Description |
 |---------|-------------|
 | [**Jenga Online**](https://jenga-online.vercel.app) | Construction materials e-commerce — escrow payments, seller dashboards, Tanzania |
-| [**VeloRoute Proxy**](https://github.com/Allan-Davincs) | Go reverse proxy and load balancer |
-| [**NEXA AI**](https://github.com/Allan-Davincs) | Enterprise document RAG with PGVector |
-| [**UniTranslate**](https://unitranslate-v2-e7685a48df3a.herokuapp.com/) | Web translation platform |
+| [**Flex AI**](https://github.com/Allan-Davincs/FLEX-AI) | WhatsApp AI bot — group control, plugins, automation |
+| [**VeloRoute Proxy**](https://github.com/Allan-Davincs/VeloRoute-Proxy) | Go reverse proxy and load balancer |
+| [**NEXA AI**](https://github.com/Allan-Davincs/NEXA-AI) | Enterprise document RAG with PGVector |
+| [**UniTranslate**](https://github.com/Allan-Davincs/UniTranslate) | Web translation platform |
 | [**Portfolio (Docs)**](https://alan-enock-v2.vercel.app) | Developer documentation-style portfolio |
 | [**Portfolio (Terminal)**](https://alan-enock.vercel.app) | Interactive terminal portfolio |
 
