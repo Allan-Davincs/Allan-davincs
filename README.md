@@ -1,7 +1,8 @@
 # Alan G Enock
 
-**Software Engineer** · 2nd Year Computer Engineering, Dar es Salaam Institute of Technology (DIT)  
-Dar es Salaam, Tanzania · Open to remote opportunities
+*I Build Systems That Make Your Customers Happy*
+
+**Dar Es Salaam Institute of Technology** · DSM
 
 I design and ship full-stack systems — from e-commerce and APIs to AI pipelines and infrastructure. Production-ready software, clear architecture, reliable deployments.
 
