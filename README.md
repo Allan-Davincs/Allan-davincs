@@ -44,38 +44,6 @@ I design and ship full-stack systems — from e-commerce and APIs to AI pipeline
 
 ---
 
-## GitHub · [@Allan-Davincs](https://github.com/Allan-Davincs)
-
-<p align="center">
-  <img
-    width="100%"
-    src="https://streak-stats.daily.dev?user=Allan-Davincs&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=C9D1D9"
-    alt="GitHub contribution streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    height="190"
-    src="https://github-readme-stats.vercel.app/api?username=Allan-Davincs&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=8&include_all_commits=true&rank_icon=percentile"
-    alt="GitHub stats for Allan-Davincs"
-  />
-  <img
-    height="190"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allan-Davincs&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=8&langs_count=6&hide=html,css,scss"
-    alt="Top languages for Allan-Davincs"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Allan-Davincs&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true"
-    alt="GitHub activity graph"
-  />
-</p>
-
----
-
 ## What I work on
 
 - Full-stack web applications (Next.js, Node.js, TypeScript)
