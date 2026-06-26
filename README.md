@@ -1,6 +1,5 @@
 # Alan G Enock
-
-**2nd Year Computer Engineering Student** · Dar es Salaam Institute of Technology  
+**Computer Engineering** · Dar es Salaam Institute of Technology  
 Dar es Salaam, Tanzania · Open to remote opportunities
 
 I design and ship full-stack systems — from e-commerce and APIs to AI pipelines and infrastructure. I focus on production-ready software: clear architecture, reliable deployments, and solutions that work for real users.
@@ -15,6 +14,7 @@ I design and ship full-stack systems — from e-commerce and APIs to AI pipeline
 - Payment flows, SMS/email notifications, and third-party integrations
 - Reverse proxies, load balancing, and system operations
 - RAG-based AI systems and document pipelines
+- CyberSecurity and Penetration testings WPT
 
 ---
 
@@ -25,6 +25,8 @@ I design and ship full-stack systems — from e-commerce and APIs to AI pipeline
 | **TypeScript / JavaScript** | Frontend and backend application logic |
 | **Go** | High-performance services, proxies, systems tooling |
 | **Python** | APIs, automation, AI/LLM workflows |
+| **C&C++** | OS, automation, Micro-Services |
+
 
 ---
 
@@ -42,9 +44,6 @@ I design and ship full-stack systems — from e-commerce and APIs to AI pipeline
 **Infrastructure & tools**  
 `Linux` · `Docker` · `Nginx` · `Git` · `Vercel` · `Heroku`
 
-**Integrations**  
-`Snippe` · `M-Pesa` · `Resend` · `RAFIKI SMS` · `Cloudinary`
-
 ---
 
 ## Selected projects
@@ -60,15 +59,6 @@ I design and ship full-stack systems — from e-commerce and APIs to AI pipeline
 
 ---
 
-## Experience highlights
-
-- **Systems Administrator** — HAKAVOD COMPANY LIMITED *(part-time)*
-- **Full Stack Intern** — CodeAlpha *(remote)*
-- **Software Engineering Intern** — DIT *(Dispensary Management System)*
-- **Digital Consultant** — DavincsTech *(freelance)*
-
----
-
 ## Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-alan--enock--v2-111111?style=flat-square&logo=vercel&logoColor=white)](https://alan-enock-v2.vercel.app)
@@ -80,4 +70,4 @@ I design and ship full-stack systems — from e-commerce and APIs to AI pipeline
 
 ---
 
-*Building systems that solve real problems. If you have a project, internship, or collaboration in mind — reach out.*
+*Building systems that solve real problems. If you have a project or collaboration in mind — reach out.*
