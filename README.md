@@ -67,25 +67,7 @@ I design and ship full-stack systems — from e-commerce and APIs to AI pipeline
 | **C / C++** | Systems programming, microservices, low-level tooling |
 
 ---
-
-## Selected projects
-
-| Project | Description |
-|---------|-------------|
-| [**Jenga Online**](https://jenga-online.vercel.app) | Construction materials e-commerce — escrow payments, seller dashboards, Tanzania |
-| [**Flex AI**](https://github.com/Allan-Davincs/FLEX-AI) | WhatsApp AI bot — group control, plugins, automation |
-| [**VeloRoute Proxy**](https://github.com/Allan-Davincs/VeloRoute-Proxy) | Go reverse proxy and load balancer |
-| [**NEXA AI**](https://github.com/Allan-Davincs/NEXA-AI) | Enterprise document RAG with PGVector |
-| [**UniTranslate**](https://github.com/Allan-Davincs/UniTranslate) | Web translation platform |
-| [**Portfolio (Docs)**](https://alan-enock-v2.vercel.app) | Developer documentation-style portfolio |
-| [**Portfolio (Terminal)**](https://alan-enock.vercel.app) | Interactive terminal portfolio |
-
----
-
 ## Connect
-
-**Email:** [allandavinc89@gmail.com](mailto:allandavinc89@gmail.com)  
-**Phone:** +255 759 637 644  
 **GitHub:** [@Allan-Davincs](https://github.com/Allan-Davincs) · **LinkedIn:** [alan-enock](https://www.linkedin.com/in/alan-enock-02016031a)
 
 ---
