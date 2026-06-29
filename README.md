@@ -55,18 +55,6 @@ I design and ship full-stack systems — from e-commerce and APIs to AI pipeline
 - Cybersecurity and web penetration testing (WPT)
 
 ---
-
-## Languages
-
-| Language | Use |
-|----------|-----|
-| **Java** | Enterprise backends, REST APIs, Spring Boot microservices |
-| **TypeScript / JavaScript** | Frontend and backend application logic |
-| **Go** | High-performance services, proxies, systems tooling |
-| **Python** | APIs, automation, AI/LLM workflows |
-| **C / C++** | Systems programming, microservices, low-level tooling |
-
----
 ## Connect
 **GitHub:** [@Allan-Davincs](https://github.com/Allan-Davincs) · **LinkedIn:** [alan-enock](https://www.linkedin.com/in/alan-enock-02016031a)
 
