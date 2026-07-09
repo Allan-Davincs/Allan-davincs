@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3776AB&width=550&lines=I+Build+Systems+That+Make+Your+Customers+Happy;Developer+%7C+Systems+Architect;Designing+Production-Ready+Software+Embeded-Systems" alt="Typing Effect" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3776AB&width=500&lines=I+Build+Systems+That+Make+Your+Customers+Happy;Software-Developer+%7C+Systems+Architect;Designing+Production-Ready+Embeded-Systems" alt="Typing Effect" />
   </a>
 </p>
 
