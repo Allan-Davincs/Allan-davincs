@@ -33,7 +33,7 @@ I design and ship full-stack systems — from e-commerce ,IOT , Embeded Systems 
 *   **Backend & APIs:** Building scalable microservices in *Java (Spring Boot), Go, and Python*.
 *   **Databases & Infra:** Designing secure schemas (*MongoDB, PostgreSQL*) and containerizing with *Docker*.
 *   **Integrations:** Implementing payment gateways, SMS/email automation, and third-party APIs.
-*   **AI Pipelines:** Developing RAG-based intelligent systems and custom document pipelines.
+*   **AI Automations:** Developing RAG-based intelligent systems and custom document pipelines.
 *   **Cybersecurity:** While Learning and Performing web penetration testing (WPT) and hardening system architecture.
 
 ---
