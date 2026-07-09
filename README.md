@@ -8,7 +8,7 @@
 
 **Dar Es Salaam Institute of Technology** · DSM
 
-I design and ship full-stack systems — from e-commerce ,IOT , Embeded Systems and infrastructure. Production-ready software, clear architecture, reliable deployments.
+I design and ship full-stack systems — from e-commerce,Ai Automatiions ,IOT , Embeded Systems and infrastructure. Production-ready software, clear architecture, reliable deployments.
 
 <p align="left">
   <a href="https://github.com/Allan-Davincs"><img src="https://img.shields.io/badge/GitHub-@Allan--Davincs-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
