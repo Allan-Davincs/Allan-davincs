@@ -19,8 +19,7 @@ I design and ship full-stack systems — from e-commerce,Ai Automatiions ,IOT , 
 
 ---
 
-## 🛠️ My Tech Stack
-
+## 🛠️ Tech Stack I Learns & Use
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,spring,go,ts,js,cpp,react,nextjs,nodejs,fastapi,mongodb,postgres,docker,linux,heroku,vercel,git&theme=dark" alt="Tech stack icons"/>
 </p>
