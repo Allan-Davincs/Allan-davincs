@@ -5,9 +5,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=3776AB&width=690&lines=I+Build+Systems+That+Make+Your+Customers+Happy;Software-Developer+%7C+Systems+Architect;Designing+Production-Ready+Embeded-Systems" alt="Typing Effect" />
   </a>
 </p>
-
-**Dar Es Salaam Institute of Technology** · DSM
-
 I design and ship full-stack systems — from e-commerce,Ai Automatiions ,IOT , Embeded Systems and infrastructure. Production-ready software, clear architecture, reliable deployments.
 
 <p align="left">
