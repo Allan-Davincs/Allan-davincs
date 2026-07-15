@@ -22,7 +22,7 @@ I design and ship full-stack systems — from e-commerce,Ai Automatiions ,IOT , 
 
 ---
 
-## 🚀 What I Do
+## 🚀 What I Do & Learn
 
 *   **Full-Stack Web Apps:** Crafting high-performance interfaces using *Next.js, Node.js, and TypeScript*.
 *   **Backend & APIs:** Building scalable microservices in *Java (Spring Boot), Go, and Python*.
