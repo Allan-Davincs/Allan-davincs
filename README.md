@@ -11,7 +11,6 @@ I design and ship full-stack systems — from e-commerce,Ai Automatiions ,IOT , 
   <a href="https://github.com/Allan-Davincs"><img src="https://img.shields.io/badge/GitHub-@Allan--Davincs-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://alan-enock-v2.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/alan-enock-02016031a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:allandavinc89@gmail.com"><img src="https://img.shields.io/badge/Email-allandavinc89@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
